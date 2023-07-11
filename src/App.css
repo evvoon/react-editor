@@ -1,0 +1,12 @@
+.container{
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  font-size: 1.2rem;
+}
+
+.markdown-area{
+  background-color: rgb(122, 155, 233);
+  padding: 10px;
+}
